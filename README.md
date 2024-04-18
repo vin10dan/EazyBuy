@@ -2,7 +2,7 @@
 
 A Ecommerce Website made with React.js Framework.
 
-## Wwebsite Link
+## Website Live on Link
 
 [https://eazy-buy-six.vercel.app/](https://eazy-buy-six.vercel.app/)
 
